@@ -1,0 +1,8 @@
+Origin: repo
+Label: repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: repo - a cydia repo template
